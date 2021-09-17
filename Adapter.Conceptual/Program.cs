@@ -1,4 +1,5 @@
 ﻿// EN: Adapter Design Pattern
+// https://refactoring.guru/design-patterns/adapter
 //
 // Intent: Provides a unified interface that allows objects with incompatible
 // interfaces to collaborate.
