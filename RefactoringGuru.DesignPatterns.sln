@@ -65,7 +65,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Observer.EventAggregator.My
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator.My", "Decorator.My\Decorator.My.csproj", "{CF466819-9EF3-43AE-B08C-8A9BB441F3AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.NoSwitch.My", "FactoryMethod.NoSwitch.My\FactoryMethod.NoSwitch.My.csproj", "{1924EB41-2FFE-4FB0-BD97-841622F7F425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod.NoSwitch.My", "FactoryMethod.NoSwitch.My\FactoryMethod.NoSwitch.My.csproj", "{1924EB41-2FFE-4FB0-BD97-841622F7F425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod.My", "FactoryMethod.My\FactoryMethod.My.csproj", "{7EB31A80-957B-4519-8FEF-1EC1DBEDB158}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +191,10 @@ Global
 		{1924EB41-2FFE-4FB0-BD97-841622F7F425}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1924EB41-2FFE-4FB0-BD97-841622F7F425}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1924EB41-2FFE-4FB0-BD97-841622F7F425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EB31A80-957B-4519-8FEF-1EC1DBEDB158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB31A80-957B-4519-8FEF-1EC1DBEDB158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB31A80-957B-4519-8FEF-1EC1DBEDB158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB31A80-957B-4519-8FEF-1EC1DBEDB158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
